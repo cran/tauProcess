@@ -1,6 +1,6 @@
 Package: tauProcess
 Title: Tau Measure with Right-Censored Data
-Version: 1.1.1
+Version: 2.1.2
 Authors@R: c(
     person("Yi-Cheng", "Tai", , "s07308@gmail.com", role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0000-0003-3298-0552")), 
@@ -13,7 +13,7 @@ Description: A clinically meaningful measure of treatment effect based on
     procedure. The plot of tau process is provided as a graphical tool
     for monitoring the progression. It complements another summary measures 
     under nonproportional hazards. For details, please refer to 
-    Tai, Wang and Wells (2022) <doi:10.48550/arXiv.2207.14445>. 
+    Tai, Wang and Wells (2023) <doi:10.1002/pst.2324>. 
 URL: https://github.com/s07308/tauProcess
 License: MIT + file LICENSE
 Encoding: UTF-8
@@ -22,10 +22,10 @@ Imports: stats, survival
 Depends: R (>= 2.10)
 LazyData: true
 NeedsCompilation: no
-Packaged: 2023-05-11 07:30:37 UTC; USER
+Packaged: 2023-09-14 13:53:45 UTC; USER
 Author: Yi-Cheng Tai [aut, cre, cph] (<https://orcid.org/0000-0003-3298-0552>),
   Weijing Wang [aut] (<https://orcid.org/0000-0001-6569-083X>),
   Martin T. Wells [aut] (<https://orcid.org/0000-0002-9750-9529>)
 Maintainer: Yi-Cheng Tai <s07308@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-05-11 10:10:02 UTC
+Date/Publication: 2023-09-14 14:20:02 UTC
