@@ -1,7 +1,7 @@
-f271227e8be7d865bc7080579a552075 *DESCRIPTION
+6f51f56971c512271125ceed99b01f30 *DESCRIPTION
 1b4f4e17c5d25c93b9cbecc7e52dfad4 *LICENSE
 1ff32ab7284c4c2a70a08f966dde0068 *NAMESPACE
-38dac6112006ef23f4c90650f2fd3e8c *NEWS.md
+8aa2e94309653b5a1d0f74b5656708b7 *NEWS.md
 7ccae09ddec9b149d1f1bad9963fee0d *R/pbc.R
 033402ff3d727b2f4e2a7817260c83a0 *R/plot.tauFit.R
 ef941a676be0c8a7064f9d32de7be598 *R/plot.tau_process.R
@@ -12,11 +12,11 @@ ef941a676be0c8a7064f9d32de7be598 *R/plot.tau_process.R
 c17b9f85b8d550990496d922b7d99a15 *R/tau_proc.R
 2a89f370cf9218c807acfbdb3fb87edf *R/var.fixed.R
 e3c816b5e0623aa0b827106c77ac6163 *R/var.random.R
-d9352e6a4e36ce7c761d33a8047e609a *README.md
+a67386b921ee7f1de0da2e2d6c89d205 *README.md
 a6ab346206ac0686435d658b81bfdeba *data/pbc.rda
 cb9991106c9156cc853302550e176cd0 *man/figures/README-example-1.png
 5f91b6d43a9a4965690d725583aef0db *man/figures/README-plot-tau-process-no-cure-1.png
-940413aa95013d417c9a49d328a62fb8 *man/figures/README-plot-tau-process-with-cure-1.png
+22623bb7f511fb4d2e7a3796324df0e3 *man/figures/README-plot-tau-process-with-cure-1.png
 502a5f8dd6ba90060101596366cb7d58 *man/figures/README-pressure-1.png
 5f91b6d43a9a4965690d725583aef0db *man/figures/README-tau-process-1.png
 cb9991106c9156cc853302550e176cd0 *man/figures/README-unnamed-chunk-3-1.png
